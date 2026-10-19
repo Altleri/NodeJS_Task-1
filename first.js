@@ -1,3 +1,4 @@
+// Task#1 Anastasiia Althsuler and Evgeny Altshuler
 console.log("Hello, World!");
 
 const num = 150
